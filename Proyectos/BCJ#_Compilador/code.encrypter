@@ -1,0 +1,6 @@
+color $rojo--> #FF00F0;
+número $num-->8;
+repetir(3){
+	pintar($rojo);
+	pintar($num);
+}

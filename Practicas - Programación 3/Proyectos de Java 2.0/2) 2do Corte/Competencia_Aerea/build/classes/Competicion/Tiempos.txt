@@ -1,0 +1,6 @@
+4 180
+Alfredo 120 345 234 78
+Frank 116 367 200 112
+Geremias 78 234 200 100
+Isabella 167 189 208 100
+Lorenzo 100 109 78 90

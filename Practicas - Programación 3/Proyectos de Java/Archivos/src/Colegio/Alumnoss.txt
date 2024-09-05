@@ -1,0 +1,7 @@
+Ramon 2 4 15
+Andrez 13 10 12
+Norka 11 20 5
+Saul 8 15 14
+Sara 17 15 3
+Frank 12 3 16
+Ana 1 20 13

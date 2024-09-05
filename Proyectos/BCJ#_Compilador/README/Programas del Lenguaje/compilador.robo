@@ -1,0 +1,2 @@
+número $num-->3;
+pintar($num);
