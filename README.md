@@ -1,7 +1,7 @@
-#  Mis Proyectos Java de la Universidad:
+# 🎓 Mis Proyectos de Java en la Universidad:
 Este repositorio contiene una colección de proyectos de programación en Java que desarrollé durante mi tiempo en la universidad. Estos proyectos representan mi aprendizaje y crecimiento como programador, explorando diferentes conceptos y paradigmas de la programación orientada a objetos.
 
-## Materias de los Proyectos Incluidos:
+## 📖 Materias de los Proyectos Incluidos:
 
 - **Programación II y III.** 
 - **Algoritmos y Estructuras I.**
@@ -10,7 +10,7 @@ Este repositorio contiene una colección de proyectos de programación en Java q
 - **Lenguaje de Programación.**
 - **Sistemas de Bases de Datos.**
 
-## Tecnologías y Herrramientas Utilizadas:
+## 💻 Tecnologías y Herrramientas Utilizadas:
 
 1. **JRE** (Java Runtime Environment)
 
@@ -19,7 +19,7 @@ Este repositorio contiene una colección de proyectos de programación en Java q
  -  Versión: **19**   
 3. **Apache NetBeans IDE 14**
 
-## Durante el desarrollo de estos proyectos, aprendí sobre:
+## 📑 Durante el desarrollo de estos proyectos, aprendí sobre:
 
 - Conceptos de programación orientada a objetos, como herencia, polimorfismo, encapsulación.
 - Interfaces gráficas.
@@ -29,13 +29,14 @@ Este repositorio contiene una colección de proyectos de programación en Java q
 - Bases de datos.
 - Librerias.
 
-## Licencia
+## 📝 Licencia
 
 Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
-## Autor
+## 🖋️ Autor
 
 - [Carlos Cantero](https://github.com/carloscantero11)
 
-
-![Logo](https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png)
+<div align="center"> 
+<img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" width="300" height"200"/>
+</div>
